@@ -17,5 +17,5 @@ inputs:
   name:
     description: The commiter's name
     required: True
-    default: ${{github.actor}}
+    default: ${{github.actor}}git push
 
